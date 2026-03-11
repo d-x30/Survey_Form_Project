@@ -24,4 +24,4 @@ The form includes:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/d-x30/Survey_Form_Project.git](https://github.com/d-x30/Survey_Form_Project.git)
+   git clone (https://github.com/d-x30/Survey_Form_Project.git)
