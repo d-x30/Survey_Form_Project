@@ -21,6 +21,7 @@ The form includes:
 4.  **Comments:** A vertical-resize textarea for additional user input[cite: 1, 3].
 
 ## 💻 How to Run
+
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/survey-form.git](https://github.com/your-username/survey-form.git)
+   git clone [https://github.com/d-x30/Survey_Form_Project.git](https://github.com/d-x30/Survey_Form_Project.git)
